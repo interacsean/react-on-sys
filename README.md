@@ -1,5 +1,7 @@
 # ReactJS on SystemJS
 
+Boilerplate starter package for ReactJS using SystemJS.
+
 Prerequisites: npm
 
 ```
@@ -12,3 +14,5 @@ jspm install
 cd public
 python -m SimpleHTTPServer
 ```
+
+Note there is an alternate branch 'addons/router' which is set up with the react-router package
