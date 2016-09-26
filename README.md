@@ -8,7 +8,7 @@ Prerequisites: npm
 cd myWebProjects
 mkdir myNewWebProj
 cd myNewWebProj
-git clone ******
+git clone git@github.com:interacsean/react-on-sys.git
 npm install
 jspm install
 cd public
